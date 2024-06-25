@@ -4,13 +4,13 @@ import { getAuth, signInWithPopup, GoogleAuthProvider, signInWithEmailAndPasswor
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyA-66ZIon376N2xpzP8TQq0Xlstq-YfOwg",
-  authDomain: "project-blog-test-d67dc.firebaseapp.com",
-  projectId: "project-blog-test-d67dc",
-  storageBucket: "project-blog-test-d67dc.appspot.com",
-  messagingSenderId: "641626738940",
-  appId: "1:641626738940:web:711bfbf229d7a5c4fe8779",
-  measurementId: "G-R1WT4CJXB0"
+  apiKey: "***************************************",
+  authDomain: "***************************************",
+  projectId: "***************************************",
+  storageBucket:"***************************************",
+  messagingSenderId: "***************************************",
+  appId:"***************************************",
+  measurementId: "***************************************",
 };
 
 // Initialize Firebase
